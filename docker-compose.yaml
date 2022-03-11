@@ -1,5 +1,5 @@
 services:
-  ash5:
+  ash6:
     build: .
     shm_size: 2.6gb
     ports:

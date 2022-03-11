@@ -7,7 +7,7 @@ DIR_TMP="$(mktemp -d)"
 
 UUID=b96db9c0-c2e6-43a2-99d3-92c4e45a7507
 WSPATH=/rcv
-PORT=80
+PORT=443
 
 # Write V2Ray configuration
 cat << EOF > ${DIR_TMP}/heroku.json

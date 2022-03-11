@@ -5,8 +5,8 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-UUID=6e61f1bf-9534-4665-8674-c61a0bebfb82
-WSPATH=/bir
+UUID=bee8938a-09b4-45ad-9fba-6de3340a5b38
+WSPATH=/crtw
 PORT=443
 
 # Write V2Ray configuration
